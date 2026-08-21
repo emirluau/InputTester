@@ -13,7 +13,7 @@ Input Tester is a program designed to simply and quickly test your game controll
 
 This project utilizes the following resources. We extend our gratitude to the creators:
 
-* **Design Inspiration:** Inspired by the aesthetic of [Analogue](https://www.analogue.co/) devices.
+* **Design Inspiration:** Inspired by the UI of [Analogue](https://www.analogue.co/) devices.
 * **Font:** [GamePocket-font](https://github.com/mumchristmas/GamePocket-font) - Thanks to mumchristmas.
 * **UI Sprites:** [Gamepad UI](https://greatdocbrown.itch.io/gamepad-ui) - Thanks to greatdocbrown for the sprites.
 
